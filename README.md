@@ -1,2 +1,2 @@
 # misc
-All small projects that, in my opinion don't deserve their own repo
+All small projects that, don't deserve their own repo
